@@ -1,0 +1,19 @@
+# Ignore config
+database_config.php
+
+# Ignore PDF outputs
+file/generated_paper_*.pdf
+
+# Ignore images if not needed
+vit_image.jpg
+back
+image1
+image2
+questionback2
+
+# Ignore system/backup files
+*.log
+*.bak
+*.tmp
+desktop.ini
+Thumbs.db
